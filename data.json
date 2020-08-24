@@ -1,37 +1,10 @@
- {
-     "restaurants" : [
-    {
-       " id" : 1,
-        "name" : "restaurant1",
-        "description" :"",
-       " locatin": "sweden",
-        "image" : "",
-        "averageRating" :"3 stars"
-    },
-    {
-        " id" : 2,
-         "name" : "restaurant1",
-         "description" :"",
-        " locatin": "sweden",
-         "image" : "",
-         "averageRating" :"3 stars"
-     },
-     {
-        " id" : 3,
-         "name" : "restaurant1",
-         "description" :"",
-        " locatin": "sweden",
-         "image" : "",
-         "averageRating" :"3 stars"
-     },
-     {
-        " id" : 4,
-         "name" : "restaurant1",
-         "description" :"",
-        " locatin": "sweden",
-         "image" : "",
-         "averageRating" :"3 stars"
-     }
-   
-]
-}
+ 
+            {
+                "name": "Tasty food",
+                "description": "This is one of the best restuarants, we make very delicious food with good prices",
+                "location": "Orebro, Sweden",
+                "image": "images/restaurant1.png",
+                "averageRating": "* * * * stars"
+            }
+
+    

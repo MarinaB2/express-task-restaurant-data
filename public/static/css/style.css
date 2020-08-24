@@ -1,0 +1,16 @@
+.restuarant{
+    text-align: center;
+}
+
+.imageStyle{
+    padding-right: 30px;
+      width:300px;
+      height: 300px;
+      border-image-width: 50px;
+  }
+  .container{
+      width:50%;
+      height: 50%;
+      margin-left: 300px;
+    
+  }
