@@ -1,0 +1,37 @@
+ {
+     "restaurants" : [
+    {
+       " id" : 1,
+        "name" : "restaurant1",
+        "description" :"",
+       " locatin": "sweden",
+        "image" : "",
+        "averageRating" :"3 stars"
+    },
+    {
+        " id" : 2,
+         "name" : "restaurant1",
+         "description" :"",
+        " locatin": "sweden",
+         "image" : "",
+         "averageRating" :"3 stars"
+     },
+     {
+        " id" : 3,
+         "name" : "restaurant1",
+         "description" :"",
+        " locatin": "sweden",
+         "image" : "",
+         "averageRating" :"3 stars"
+     },
+     {
+        " id" : 4,
+         "name" : "restaurant1",
+         "description" :"",
+        " locatin": "sweden",
+         "image" : "",
+         "averageRating" :"3 stars"
+     }
+   
+]
+}
