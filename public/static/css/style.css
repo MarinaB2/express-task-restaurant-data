@@ -1,5 +1,6 @@
 .restuarant{
     text-align: center;
+    background-color: rgb(85, 111, 138);
 }
 
 .imageStyle{
@@ -14,3 +15,17 @@
       margin-left: 300px;
     
   }
+  .restaurantName{
+color: rgb(15, 34, 51);
+  }
+  .description{
+color: bisque;
+  }
+  .location{
+      color: rgb(15, 34, 51) ;
+  }
+  .checked {
+    color: orange;
+  }
+
+  

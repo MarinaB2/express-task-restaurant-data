@@ -11,7 +11,6 @@ $(document).ready(function () {
         document.getElementById("description").innerHTML = data.description;
         document.getElementById("image").src = "assets/images/restaurant1.png";
         document.getElementById("location").innerHTML = data.location;
-        document.getElementById("averageRating").innerHTML = data.averageRating;
     })
   
   
